@@ -15,6 +15,17 @@
    ### b) Problem Statement:
   - Clearly define the problem that needs to be solved using the given data.
     - Explain why the problem is important and how solving it will bring value.
+   
+      # 📘 Project Documentation
+
+## 📑 Topics
+
+1. [Introduction](./introduction.md)  
+2. [Data Collection](./data_collection.md)  
+3. [Model Training](./model_training.md)  
+4. [Evaluation](./evaluation.md)  
+5. [Deployment](./deployment.md)
+
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2) Use Methods of Python Datatypes (Objects):**
