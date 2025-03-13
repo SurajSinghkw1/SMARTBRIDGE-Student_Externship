@@ -20,10 +20,8 @@
 
 ## 📑 Topics
 
-1. [Introduction](./introduction.md)  
-2. [Data Collection](./data_collection.md)  
-3. [Model Training](./model_training.md)  
-4. [Deployment](./deployment.md)
+1. [Use-Cases](.https://github.com/SurajSinghkw1/SMARTBRIDGE-Student_Externship/blob/main/Data_Science_Use_Cases%20(1).pdf)  
+
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
