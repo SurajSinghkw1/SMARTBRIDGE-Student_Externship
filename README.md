@@ -20,7 +20,7 @@
 
 ## 📑 Topics
 
-1. [Use-Cases](.https://github.com/SurajSinghkw1/SMARTBRIDGE-Student_Externship/blob/main/Data_Science_Use_Cases%20(1).pdf)  
+1. [Use-Cases](.main/Data_Science_Use_Cases%20(1).pdf)  
 
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
