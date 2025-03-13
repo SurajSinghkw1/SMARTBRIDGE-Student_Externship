@@ -23,8 +23,7 @@
 1. [Introduction](./introduction.md)  
 2. [Data Collection](./data_collection.md)  
 3. [Model Training](./model_training.md)  
-4. [Evaluation](./evaluation.md)  
-5. [Deployment](./deployment.md)
+4. [Deployment](./deployment.md)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
