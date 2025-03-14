@@ -64,7 +64,14 @@ Prompt :- this is sample dataset My complete data shape is data.shape()
 > 📄 **Insert your 5 rows here**
 
 give me 100 real world question based on my data which I can solve using Numpy,Pandas, Matplotlib, Seaborn . 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  # 📘 Project Documentation
+
+## 📑 Material
+
+1. [Notebook](./suraj_assignment_3.ipynb)
+2. [Dataset](./suraj_assignment_3.ipynb)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 5) Implement Multiple ML Algorithm           
 
