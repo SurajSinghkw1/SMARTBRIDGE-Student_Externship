@@ -45,7 +45,16 @@
 
   ### b) Pandas :100, Solve using help(pd) and help(pd.function_name)
 
-  ### c) Seaborn :Draw 10 graph with proper meaning .
+  ### c) Matplotlib :Draw 10 graph with proper meaning .
+
+  ### c) Seaborn : Draw 10 graph with proper meaning .
+
+  # 📘 Project Documentation
+
+## 📑 Material
+
+1. [Notebook](./SURAJ_assignment_2.ipynb)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 4) Take any dataset from Kaggle (data.gov.in, data.gov, etc)  
