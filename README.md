@@ -95,13 +95,13 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 ## 📑 Material
 
 1. [Notebook](./Suraj_Assignment5_p2.ipynb)  /
-2. [Simple Linear Regression :- Dataset](./Salary_dataset.csv)  /   [Multiple Linear Regression:- Dataset](./LS_2.0.csv)
-3. [Logistic Regression :- Dataset](./LS_2.0.csv)
-4. [Decision Tree :- Dataset](./LS_2.0.csv)
-5. [Random Forest  :- Dataset](./LS_2.0.csv)
-6. [ Naive Bayes :- Dataset](./LS_2.0.csv)
-7. [ SVC :- Dataset](./LS_2.0.csv)
-8. [XGBoot :- Dataset_1 ](./LS_2.0.csv)   /   [XGBoot :- Dataset_2 ](./LS_2.0.csv)   /   [XGBoot :- Dataset_3 ](./LS_2.0.csv) 
+2. [Simple Linear Regression :- Dataset](./Salary_dataset.csv)  /   [Multiple Linear Regression:- Dataset](./co2.csv)
+3. [Logistic Regression :- Dataset](./breast_cancer.csv)
+4. [Decision Tree :- Dataset](./yeast.csv)
+5. [Random Forest  :- Dataset](./bankloan.csv)
+6. [ Naive Bayes :- Dataset](./data%20(1).csv)
+7. [ SVC :- Dataset](./IRIS.csv)
+8. [XGBoot :- Dataset_1 ](./train.csv )   /   [XGBoot :- Dataset_2 ](./test.csv)   /   [XGBoot :- Dataset_3 ](./sample_submission.csv) 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 6)  Create an ANN/CNN on any dataset 
