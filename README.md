@@ -88,6 +88,20 @@ give me 100 real world question based on my data which I can solve using Numpy,P
   ### f) SVC   
 
   ### g)XGBoot 
+
+
+ # 📘 Project Documentation
+
+## 📑 Material
+
+1. [Notebook](./Suraj_Assignment_4.ipynb)
+2. [Dataset](./LS_2.0.csv)
+3. [Dataset](./LS_2.0.csv)
+4. [Dataset](./LS_2.0.csv)
+5. [Dataset](./LS_2.0.csv)
+6. [Dataset](./LS_2.0.csv)
+7. [Dataset](./LS_2.0.csv)
+8. [Dataset](./LS_2.0.csv)   /   [Dataset](./LS_2.0.csv)   /  [Dataset](./LS_2.0.csv)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 6)  Create an ANN/CNN on any dataset 
