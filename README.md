@@ -94,7 +94,7 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 
 ## 📑 Material
 
-1. [Notebook](./Suraj_Assignment_4.ipynb)
+1. [Notebook](./Suraj_Assignment5_p2.ipynb)
 2. [Dataset](./LS_2.0.csv)
 3. [Dataset](./LS_2.0.csv)
 4. [Dataset](./LS_2.0.csv)
