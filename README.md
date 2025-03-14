@@ -69,7 +69,7 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 
 ## 📑 Material
 
-1. [Notebook](./suraj_assignment_3.ipynb)
+1. [Notebook](./Suraj_Assignment_4.ipynb)
 2. [Dataset](./LS_2.0.csv)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
