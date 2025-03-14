@@ -30,7 +30,7 @@
 - **int**, **float**, **complex**, **list**, **tuple**, **string**, **set**, **dictionary**, **bool**  
  - Use the `help()` function to explore each datatype and its methods.
 
-    📘 Project Documentation
+    # 📘 Project Documentation
 
 ## 📑 Material
 
