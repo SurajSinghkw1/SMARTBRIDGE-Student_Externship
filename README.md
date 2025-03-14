@@ -29,6 +29,12 @@
 
 - **int**, **float**, **complex**, **list**, **tuple**, **string**, **set**, **dictionary**, **bool**  
  - Use the `help()` function to explore each datatype and its methods.
+
+## 📑 Material
+
+1. [Notebook](.SURAJ_assignment_2.ipynb)
+
+   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3) Python libraries for data Analysis and Visualization 
