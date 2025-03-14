@@ -123,7 +123,7 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 
 ## 📑 Topics
 
-1. [Notebook](./suraj_project_4L (1).ipynb)
+1. [Notebook](./suraj_project_4L%20(1).ipynb)
 2. [Dataset](./cirrhosis.csv)
 3. [Dataset](./Main_data.csv)
 
