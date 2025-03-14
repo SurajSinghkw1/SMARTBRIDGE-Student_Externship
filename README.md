@@ -94,7 +94,7 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 
 ## 📑 Material
 
-1. [Notebook]() 
+1. [Notebook](./Copy_of_Suraj_Assignment5_p2a.ipynb) 
 2. [Simple Linear Regression :- Dataset](./Salary_dataset.csv)  /   [Multiple Linear Regression:- Dataset](./co2.csv)
 3. [Logistic Regression :- Dataset](./breast_cancer.csv)
 4. [Decision Tree :- Dataset](./yeast.csv)
