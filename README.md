@@ -111,13 +111,24 @@ give me 100 real world question based on my data which I can solve using Numpy,P
 ## 📑 Topics
 
 1. [Notebook](./suraj_assignment_6ANN.ipynb)
-2. 1. [Dataset](./cancer_classification.csv)
+2. [Dataset](./cancer_classification.csv)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # 🛠️ PROJECT
 
 # 🩺 **Revolution Liver Care: Predicting Liver Cirrhosis Using Advanced Machine Learning Techniques**
+
+# 📘 Project Documentation
+
+## 📑 Topics
+
+1. [Notebook](./suraj_project_4L%20(1).ipynb)
+2. [Dataset](./cirrhosis.csv)
+3. [Dataset](./Main_data.csv)
+
+# 📘 Project Documentation Report File 
+1. [Report File](./Liver_Cirrhosis_Project%20(2).docx)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
